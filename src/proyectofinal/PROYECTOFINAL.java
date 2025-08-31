@@ -24,7 +24,7 @@ public class PROYECTOFINAL {
        tc=c1+c2+c3;
        pc=tc/3;
        
-       
+       System.out.print("Resultados del proyecto: ");
        System.out.println("La compra total es: "+tc);
        System.out.println("El promedio de compra es: "+pc);
      
